@@ -18,6 +18,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
+  "proxy": "https://apis.ccbp.in",
   "eslintConfig": {
     "extends": [
       "react-app",
